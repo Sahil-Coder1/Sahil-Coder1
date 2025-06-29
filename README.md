@@ -1,8 +1,8 @@
 # Hii there 👋 I'm Sahil
 
 - 🔭 I’m currently working on Web Projects.
-- 💻 I’m currently learning ReactJs + Vite , Tailwind Css
-- 👯 Currently collaborating with [@Mohd Rafey](https://github.com/mohdrafey1)  to solve a real-world problem through a project
+- 💻 I’m currently learning NextJs & Typescript
+- 🤝 Currently collaborating with [@Mohd Rafey](https://github.com/mohdrafey1)  to solve a real-world problem through a project
 
   ![Top Langs](https://komarev.com/ghpvc/?username=Sahil-coder1)
 
