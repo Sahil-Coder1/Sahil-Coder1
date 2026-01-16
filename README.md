@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-coder1" alt="sahil-coder1" /></a> </p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sahil-Coder1?cardType=level&theme=buefy&fontFamily=Gothic%20A1&preferLogin=false)](https://git.io/awesome-stats-card)
 
 - 🔭 I’m currently working on [Student Senior](https://github.com/mohdrafey1/studentsenior-frontend)
 
